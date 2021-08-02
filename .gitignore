@@ -2,3 +2,4 @@ DataDist-*
 .build
 *~
 nytprof*
+.DS_Store
